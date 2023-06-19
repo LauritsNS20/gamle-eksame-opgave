@@ -1,0 +1,33 @@
+.cardPictures {
+    height: 26%;
+    width: 26%;
+    position: relative;
+}
+
+.cards {
+    width: 100%;
+    padding: 8vh 0;
+    background: #ffffff;                  
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem; 
+    justify-content: center;                                         
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+.cards section{ 
+    flex:0 1 300px;
+    align-self: stretch;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px rgba(50, 50, 50, 0.3); 
+    padding: 5rem;
+}
+
+.cards p{
+    margin: 1 rem 0;
+    color: #3B4C5C;
+}
+
+.cards h3{
+    font-size: x-large;
+    color: #3B4C5C;
+}

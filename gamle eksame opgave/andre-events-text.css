@@ -1,0 +1,16 @@
+.andreevents {
+    position: relative;
+    text-align: center;
+    color: #3B4C5C;
+    position: absolute;
+}
+
+.eventstext {
+ font-size: 50px;
+}
+
+.andreeventstext {
+    max-width: 50%;
+    margin: auto; 
+    font-size: x-large;
+}
